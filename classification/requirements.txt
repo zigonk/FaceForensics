@@ -1,4 +1,6 @@
-absl-py==0.4.0
+imgaug==0.2.5
+folium==0.2.1
+absl-py==0.7.0
 astor==0.7.1
 certifi==2018.11.29
 cffi==1.12.1
@@ -7,10 +9,10 @@ dlib==19.15.0
 face-recognition==1.2.3
 face-recognition-models==0.3.0
 ffmpy==0.2.2
-gast==0.2.0
+gast==0.2.2
 grpcio==1.14.1
 h5py==2.8.0
-Keras==2.2.0
+Keras==2.2.5
 Markdown==2.6.11
 mkl-fft==1.0.6
 mkl-random==1.0.1.1
@@ -22,7 +24,7 @@ opencv-python==3.4.1.15
 pathlib==1.0.1
 Pillow==5.4.1
 pretrainedmodels==0.7.4
-protobuf==3.6.1
+protobuf==3.10.0
 pycparser==2.19
 scandir==1.7
 six==1.12.0
